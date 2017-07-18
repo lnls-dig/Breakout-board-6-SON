@@ -1,0 +1,26 @@
+* Checklist for releasing hardware designs in Altium
+
+[] Erase output folder.
+
+[] Save all project files and commit to git.
+
+[] Run DRC with no errors.
+
+[] Push last commit to github.
+
+[] Create new release on GitHub pointing to last commit.
+
+[] Generate schematics PDF.
+
+[] Generate bill of materials.
+
+[] Generate Gerbers and drill files.
+
+[] Add Gerbers an drill files to a single zip file.
+
+[] Generate ODB++ zip file.
+
+[] Upload generated files to the GitHub release.
+
+[] Insert release description and save it.
+
