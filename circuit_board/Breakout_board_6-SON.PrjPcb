@@ -72,6 +72,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OLIBUDCD
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Breakout_board_6-SON\Design Rule Check - 6-SON.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
